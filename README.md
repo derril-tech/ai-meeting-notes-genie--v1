@@ -1,5 +1,5 @@
 # 🎙️ Meeting Notes Genie
-**AI-Powered Meeting Notes from Audio & Video**
+**OpenAI SDK AI Agents-Powered Meeting Notes from Audio & Video**
 
 🌐 **See the Live Application**: [https://ai-meeting-notes-genie.vercel.app/](https://ai-meeting-notes-genie.vercel.app/)
 
