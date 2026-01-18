@@ -1,8 +1,6 @@
 # 🎙️ Meeting Notes Genie
 **OpenAI SDK AI Agents-Powered Meeting Notes from Audio & Video**
 
-🌐 **See the Live Application**: [https://ai-meeting-notes-genie.vercel.app/](https://ai-meeting-notes-genie.vercel.app/)
-
 > **Transform your meeting recordings into professional notes with action items, summaries, and insights—instantly and accurately.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -260,14 +258,6 @@
 
 ---
 
-## 📞 Support
-
-- 📧 **Email**: support@meetingnotesgenie.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/derril-tech/ai-meeting-notes-genie/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/derril-tech/ai-meeting-notes-genie/discussions)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -275,8 +265,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-
-**⭐ Star this repo if you find it useful!**
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
